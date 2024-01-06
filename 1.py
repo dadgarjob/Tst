@@ -1,3 +1,3 @@
-print('mahdi')
+print('mahdi1')
 print('2')
 print('3')
